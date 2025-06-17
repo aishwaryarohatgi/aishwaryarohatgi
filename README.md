@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Aishwarya Rohatgi — Developer. Creator. Learner.
 
+## 📫 Let’s Connect
+
+- 📧 Email: [codingriri@gmail.com](mailto:codingriri@gmail.com)  
+- 🌐 Portfolio: *coming soon*  
+- 💼 LinkedIn: *coming soon*  
+- 📝 Freelance Projects: *coming soon*
+
 ---
 
 ## 🛠 Skills Snapshot
