@@ -4,9 +4,10 @@
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [codingriri@gmail.com](mailto:codingriri@gmail.com)  
+- 📧 Email: [codingriri@gmail.com](mailto:codingriri@gmail.com)
+- 🔗 [Freelance Projects](https://github.com/codingriri?tab=repositories)
 - 🌐 Portfolio: *coming soon*  
-- 💼 LinkedIn: *coming soon*
+- 💼 [LinkedIn](https://www.linkedin.com/in/aishwaryarohatgi)
 
 ---
 
