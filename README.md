@@ -2,5 +2,5 @@
 
 - 📧 Let's collaborate: [codingriri@gmail.com](mailto:codingriri@gmail.com)
 - 🔗 Projects: [@codingriri](https://github.com/codingriri?tab=repositories)
-- 🌐 Portfolio: *coming soon*  
+- 🌐 Portfolio: [aishwaryarohatgi.github.io](https://aishwaryarohatgi.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aishwaryarohatgi)
